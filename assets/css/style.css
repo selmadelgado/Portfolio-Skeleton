@@ -75,9 +75,12 @@ img.avatar {
 }
 
 img:hover {
-  opacity: 0.8;
+  opacity: 0.85;
 }
   
+
+/* Portfolio Thumbnails –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 
 
 /* Footer */
@@ -109,8 +112,6 @@ p.copyright {
   font-size: 1em;
 }
 
-
-
 /* Media Queries */
 /* Larger than mobile */
 @media (max-width: 479px) {
@@ -127,27 +128,3 @@ p.copyright {
   
   h2.bio{text-align: center;}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
