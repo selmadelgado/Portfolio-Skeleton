@@ -18,6 +18,7 @@
 /* Typography –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
   font-family: 'Abel', sans-serif;
+  font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
   font-size: 1.5em;
   color: #000;
 }
@@ -155,7 +156,8 @@ ul.social li a {
   color: #909090; 
 }
 
-ul.social li.facebook a:hover{color: rgb(59, 89, 152);}
+
+ul.social li.github a:hover{color: rgb(18, 163, 173);}
 ul.social li.twitter a:hover{color: rgb(0, 172, 237);}
 ul.social li.instagram a:hover{color: rgb(76, 104, 215);}
 ul.social li.linkedin a:hover{color: rgb(0, 123, 182);}
