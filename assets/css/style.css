@@ -184,3 +184,7 @@ p.copyright {
   
   h2.bio{text-align: center;}
 }
+
+@media (max-width: 801px){
+  .row .col.s12 {width: 100%;} 
+}
